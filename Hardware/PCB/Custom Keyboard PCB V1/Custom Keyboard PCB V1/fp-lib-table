@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Wireless Keyboard") (type "KiCad") (uri "C:/Users/myrim/OneDrive/Documents/GitHub/Custom-Wired-Wireless-Keyboard/Hardware/PCB/Symbols+Footprints") (options "") (descr ""))
+)
