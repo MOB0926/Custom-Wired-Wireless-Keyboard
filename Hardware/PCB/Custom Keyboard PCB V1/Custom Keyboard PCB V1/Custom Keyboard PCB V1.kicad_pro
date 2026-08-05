@@ -260,7 +260,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|2578100|850900|1ff1915a-06c2-47a7-98d5-c2c073859d58|00000000-0000-0000-0000-000000000000|/3750c87c-c33b-4dde-a79e-691afb177a43|/3750c87c-c33b-4dde-a79e-691afb177a43|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -648,17 +653,13 @@
         "uuid": "3750c87c-c33b-4dde-a79e-691afb177a43"
       }
     ],
-    "used_designators": "U1-2,D1-2,#PWR1-12,SW1-2,J1-7,R1-3,TP1",
+    "used_designators": "U1-2,D1-90,#PWR1-12,SW1-90,J1-7,R1-3,TP1,S1-8",
     "variants": []
   },
   "sheets": [
     [
       "3750c87c-c33b-4dde-a79e-691afb177a43",
       "Custom Keyboard PCB V1"
-    ],
-    [
-      "964ccadc-93d9-4412-8ba0-040bf901b39a",
-      "Key_Matrix"
     ]
   ],
   "text_variables": {},
