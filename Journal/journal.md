@@ -77,13 +77,29 @@ I did not do much this day I just had some free time where I did not feel like p
 - Planing Key Layout (used [keyboard-layout-editor](https://www.keyboard-layout-editor.com/). My idea is basically a TKL but without a few of the extra keys to the side that i litterally never use in order to get space for the rest of my components)
     
 ### Proof
-    
+       
 ![alt text](image-8.png)
-
+      
 ![alt text](image-5.png)
-
+      
 ### What's Next?
-
+      
 - Review Schematic
 - Finalize Footprints
 - Beging PCB Layout
+      
+## Day 5 (8/5/26) (4 hours)
+      
+### Progress
+      
+I figured out how I will lay out the keys. Originally I was lost, I tried a few methods but ended up getting stuck at different points both with my lack of experience with kicad's ackwardness with moving components sometimes and kind of not understanding / wanting to use automatic layout tools. After all that I just decided I would layout manually by first laying out the keys in the pattern I desired and then coming back to propperly space them. Basically for spacing I set set my spacing to 19.05mm and for keys that were not 1u I used (shift+p) or (Right click > Positioning Tools > Position Relative to Reference Item) then hit "Select Point..." to my reference switch and spaced it out as 19.05mm for 1u or the (u size of the key + 1u (key size)) / 2 x 19.05 for bigger keys, and then angle is the direction. Example for 1.5u key = ((1.5u + 1u) / 2) x 19.05 = 1.25
+      
+### Proof
+      
+![alt text](image-6.png)
+      
+![alt text](image-7.png)
+      
+### What's Next?
+      
+- Finish switch layout and the rest of my placements before wiring the pcb
