@@ -4137,6 +4137,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 180.34) (xy 38.1 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a91ed57-e5c5-4cfd-95c0-4b908d864947")
+	)
+	(wire
+		(pts
 			(xy 107.95 102.87) (xy 107.95 121.92)
 		)
 		(stroke
@@ -4857,16 +4867,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 180.34) (xy 40.64 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b265252-0f4f-401f-81d7-afd5391b7333")
-	)
-	(wire
-		(pts
 			(xy 120.65 36.83) (xy 138.43 36.83)
 		)
 		(stroke
@@ -5274,16 +5274,6 @@
 			(type default)
 		)
 		(uuid "4b2257b7-3ec9-4974-99d2-3a77ca0e26ab")
-	)
-	(wire
-		(pts
-			(xy 38.1 180.34) (xy 38.1 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b3f7676-cdc2-4dee-915e-d75f0538d8ac")
 	)
 	(wire
 		(pts
@@ -6444,6 +6434,16 @@
 			(type default)
 		)
 		(uuid "75cde346-ca2a-4de7-a4c4-6f82f85a975f")
+	)
+	(wire
+		(pts
+			(xy 40.64 180.34) (xy 40.64 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76441637-90a2-419a-aa16-633eb3ba7282")
 	)
 	(wire
 		(pts
@@ -9466,7 +9466,7 @@
 		(uuid "7e9a8482-1cf0-47a2-8338-a172d204c981")
 	)
 	(label "COL1"
-		(at 40.64 186.69 90)
+		(at 38.1 186.69 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9516,7 +9516,7 @@
 		(uuid "91d4f731-3ecd-4455-b717-c49606fac967")
 	)
 	(label "COL2"
-		(at 38.1 186.69 90)
+		(at 40.64 186.69 90)
 		(effects
 			(font
 				(size 1.27 1.27)
