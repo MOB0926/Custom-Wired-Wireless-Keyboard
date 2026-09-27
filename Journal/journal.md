@@ -103,3 +103,19 @@ I figured out how I will lay out the keys. Originally I was lost, I tried a few 
 ### What's Next?
       
 - Finish switch layout and the rest of my placements before wiring the pcb
+    
+     
+## Day 6 (Compilation of multiple days that I forgot to update jurnal for)
+       
+### Progress
+      
+Finished key layout, diode placement, and all of the wire routing. So basically I am done with the PCB
+Did not end up going for the LED's. I left it for the side for too long and now to go back would be a very long process and I need to get this project done soon.
+      
+### Proof
+      
+![alt text](image-9.png)
+      
+### What's Next?
+      
+- Case CAD
