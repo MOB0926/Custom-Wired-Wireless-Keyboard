@@ -1,14 +1,13 @@
-Item Desc,Link,qty,total price (USD)
-Esp32-S2-Mini,https://www.aliexpress.com/item/3256806641782219.html?mp=1,x1,3.89
-Li-ion Bat Charger,https://www.aliexpress.com/item/3256806637067881.html?mp=1,x1,1.70
-1N148 Diodes SMD,https://www.aliexpress.com/item/3256809295401623.html?mp=1,x100,1.81
-Switches,https://www.aliexpress.com/item/3256806210108666.html?mp=1,x70,10.62
-SK6812 Mini-E RGB LED,https://www.aliexpress.com/item/3256805007401420.html?mp=1,x20,2.49
-Keycap Set,https://www.aliexpress.com/item/3256802619257378.html?mp=1,x1,8.99
-M3x16 Screws,https://www.aliexpress.com/item/3256808399236240.html?mp=1,x50,2.93
-M3x3  (OD 4.5) Heated Inserts,https://www.aliexpress.com/item/3256807466816961.html?mp=1,x50,2.07
-EC11 Rotary Encoder,https://www.aliexpress.com/item/3256809532531913.html?mp=1,x1,1.56
-PCB,,x5,
-,,,
-Shipping,,,0.00
-Total,,,35.06
+Item Desc,Link / Seller,qty,total price (USD)
+Esp32-S3-Mini,https://www.aliexpress.com/item/3256805262904443.html?mp=1,x1,06.39
+Li-ion Bat Charger,https://www.aliexpress.com/item/3256806637067881.html?mp=1,x1,02.75
+1N148 Diodes SMD (100pc),https://www.aliexpress.com/item/3256809295401623.html?mp=1,x1,01.86
+Switches (90pc),https://www.aliexpress.com/item/3256806210108666.html?mp=1,x1,13.21
+Keycap Set (104pc),https://www.aliexpress.com/item/3256811496795361.html?mp=1,x1,08.12
+M3x6 Screws (50pc),https://www.aliexpress.com/item/3256808399236240.html?mp=1,x1,00.99
+EC11 Rotary Encoder,https://www.aliexpress.com/item/3256805940972786.html?mp=1,x1,01.56
+PCB (5pc),JLCPCB.com,x1,26.90
+M4x6 Screws (20pc),https://www.aliexpress.com/item/3256808399236240.html?mp=1,x1,2.26
+Standofs (1x6.25u + 4x2u),https://www.aliexpress.com/item/3256801500004993.html?mp=1,x1,5.57
+Shipping,,,18.54
+Total,,,88.15
