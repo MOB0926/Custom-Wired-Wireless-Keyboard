@@ -105,7 +105,7 @@
 - Finish switch layout and the rest of my placements before wiring the pcb
     
      
-## Day 6 (Compilation of multiple days that I forgot to update jurnal for) (4 hours)
+## Day 6 (9/25/25) (4 hours)
        
 ### Progress
       
