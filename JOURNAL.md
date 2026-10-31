@@ -26,8 +26,11 @@
 ### What's Next?
       
 - Next up I think im going straight to working on the schematic and then I will see what else I need to do.
-     
-     
+    
+### Pic
+   
+<img src="./images/image-15.png" alt="Alt Text" width="500">
+       
 
 
 ## Day 2 (6/26/26) (1 hour)
