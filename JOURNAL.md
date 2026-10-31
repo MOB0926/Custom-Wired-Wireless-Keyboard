@@ -36,10 +36,9 @@
      
 - I did not do much this day I just had some free time where I did not feel like playing games so I just tried to find a footprint for the board im using. Long story short It barely exisxts and I suck at downloading stuf from any git platform. Additionally big blunder on me for doing little research, the EPS32 S2 does not feature BLE. Luckily Wemos sells the same footprint board but with and S3 chip and slightly differnt pinnout which I just eddited in KiCad. (Very OP keyboard now IG)
      
-### Proof
+### Pic
    
-![alt text](image.png)
-    
+<img src="./images/image.png" alt="Alt Text" width="500">
     
 
 
@@ -52,13 +51,13 @@
 - Added pin headder for 4 pin I2C 0.96in OLED
 - Added pins for Battery Module (Not yet sure on footprint so will come back)
     
-### Proof
+### Pic
     
-![alt text](image-1.png)
+<img src="./images/image-1.png" alt="Alt Text" width="500">
     
-![alt text](image-2.png)
+<img src="./images/image-2.png" alt="Alt Text" width="500">
     
-![alt text](image-3.png)
+<img src="./images/image-3.png" alt="Alt Text" width="500">
 
 ### What's Next?
 
@@ -74,11 +73,11 @@
 - Added stabilizers
 - Planing Key Layout (used [keyboard-layout-editor](https://www.keyboard-layout-editor.com/). My idea is basically a TKL but without a few of the extra keys to the side that i litterally never use in order to get space for the rest of my components)
     
-### Proof
+### Pic
        
-![alt text](image-8.png)
+<img src="./images/image-8.png" alt="Alt Text" width="500">
       
-![alt text](image-5.png)
+<img src="./images/image-5.png" alt="Alt Text" width="500">
       
 ### What's Next?
       
@@ -92,11 +91,11 @@
       
 - I figured out how I will lay out the keys. Originally I was lost, I tried a few methods but ended up getting stuck at different points both with my lack of experience with kicad's ackwardness with moving components sometimes and kind of not understanding / wanting to use automatic layout tools. After all that I just decided I would layout manually by first laying out the keys in the pattern I desired and then coming back to propperly space them. Basically for spacing I set set my spacing to 19.05mm and for keys that were not 1u I used (shift+p) or (Right click > Positioning Tools > Position Relative to Reference Item) then hit "Select Point..." to my reference switch and spaced it out as 19.05mm for 1u or the (u size of the key + 1u (key size)) / 2 x 19.05 for bigger keys, and then angle is the direction. Example for 1.5u key = ((1.5u + 1u) / 2) x 19.05 = 1.25
       
-### Proof
+### Pic
       
-![alt text](image-6.png)
+<img src="./images/image-6.png" alt="Alt Text" width="500">
       
-![alt text](image-7.png)
+<img src="./images/image-7.png" alt="Alt Text" width="500">
       
 ### What's Next?
       
@@ -110,9 +109,9 @@
 - Finished key layout, diode placement, and all of the wire routing. So basically I am done with the PCB
 Did not end up going for the LED's. I left it for the side for too long and now to go back would be a very long process and I need to get this project done soon.
       
-### Proof
+### Pic
       
-![alt text](image-9.png)
+<img src="./images/image-9.png" alt="Alt Text" width="500">
       
 ### What's Next?
       
@@ -125,9 +124,9 @@ Did not end up going for the LED's. I left it for the side for too long and now 
       
 - CAD :(  I got the case mostly done. + I fixed some mistakes on the PCB (GND fill was not set to connect to the GND pads)
       
-### Proof
+### Pic
       
-![alt text](image-10.png)
+<img src="./images/image-10.png" alt="Alt Text" width="500">
       
 ### What's Next?
       
@@ -144,11 +143,11 @@ Did not end up going for the LED's. I left it for the side for too long and now 
        
 - Also updated BOM
       
-### Proof
+### Pic
       
-![alt text](image-11.png)
+<img src="./images/image-11.png" alt="Alt Text" width="500">
      
-![alt text](image-12.png)
+<img src="./images/image-12.png" alt="Alt Text" width="500">
       
 ### What's Next?
       
@@ -165,9 +164,9 @@ Did not end up going for the LED's. I left it for the side for too long and now 
       
 ### Proof
        
-![alt text](image-13.png)
+<img src="./images/image-13.png" alt="Alt Text" width="500">
             
-![alt text](image-14.png)
+<img src="./images/image-14.png" alt="Alt Text" width="500">
        
 ### What's Next?
       

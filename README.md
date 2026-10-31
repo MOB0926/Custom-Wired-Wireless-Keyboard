@@ -8,6 +8,10 @@
 
 - My keyboard features 80 Keys in the standard orientation and order of a keyboard. In addition to an EC11 Rotary encoder for Volume Adjustment and a 0.91 in OLED to display whatever I want. As the circuit is controlled by a WEMOS LOLIN ESP32 S3 Mini, I have included wireless functionality through its onboard BLE, along with an internal 18650 battery and charging unit to supply power during wireless use.
 
+<img src="./images/image-13.png" alt="Alt Text" width="500">
+
+<img src="./images/image-14.png" alt="Alt Text" width="500">
+
 ## Challenges 
 
 - Price. PCBs over 100x100mm are very expensive, along with all the other components this may have been my most dificult project for finding cost effective solutions
