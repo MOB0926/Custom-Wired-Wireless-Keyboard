@@ -41,7 +41,7 @@
      
 ### Pic
    
-<img src="./images/image.png" alt="Alt Text" width="500">
+<img src="./images/image-0.png" alt="Alt Text" width="500">
     
 
 
@@ -174,3 +174,37 @@ Did not end up going for the LED's. I left it for the side for too long and now 
 ### What's Next?
       
 - SUBMIT SUBMIT SUBMIT SUBMIT (Obv review first)
+      
+      
+## Day 9 (9/28/26) (3 Hours)
+       
+### Progress
+      
+- CAD fixed and complete
+       
+- Also updated BOM
+      
+### Proof
+       
+<img src="./images/image-13.png" alt="Alt Text" width="500">
+            
+<img src="./images/image-14.png" alt="Alt Text" width="500">
+       
+### What's Next?
+      
+- SUBMIT SUBMIT SUBMIT SUBMIT (Obv review first)
+
+
+
+## Day 10 (11/5/26) (0.5 Hours)
+       
+### Progress
+      
+- Previously submited design but it got returned
+- Following the reviewers comments I resized my PCB border and took a screenshot of it and the schematic to add to README.md
+      
+### Pic
+      
+<img src="./images/image-16.png" alt="Alt Text" width="500">
+     
+<img src="./images/image-17.png" alt="Alt Text" width="500">
