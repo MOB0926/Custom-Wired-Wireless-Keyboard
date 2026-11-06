@@ -157,24 +157,6 @@ Did not end up going for the LED's. I left it for the side for too long and now 
 - Fix CAD
       
       
-## Day 9 (9/28/26) (3 Hours)
-       
-### Progress
-      
-- CAD fixed and complete
-       
-- Also updated BOM
-      
-### Proof
-       
-<img src="./images/image-13.png" alt="Alt Text" width="500">
-            
-<img src="./images/image-14.png" alt="Alt Text" width="500">
-       
-### What's Next?
-      
-- SUBMIT SUBMIT SUBMIT SUBMIT (Obv review first)
-      
       
 ## Day 9 (9/28/26) (3 Hours)
        
